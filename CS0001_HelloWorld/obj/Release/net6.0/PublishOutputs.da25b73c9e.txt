@@ -1,0 +1,5 @@
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\C# AND ASP.NET\CS0001_HelloWorld\bin\Release\net6.0\publish\CS0001_HelloWorld.exe
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\C# AND ASP.NET\CS0001_HelloWorld\bin\Release\net6.0\publish\CS0001_HelloWorld.dll
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\C# AND ASP.NET\CS0001_HelloWorld\bin\Release\net6.0\publish\CS0001_HelloWorld.deps.json
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\C# AND ASP.NET\CS0001_HelloWorld\bin\Release\net6.0\publish\CS0001_HelloWorld.runtimeconfig.json
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\C# AND ASP.NET\CS0001_HelloWorld\bin\Release\net6.0\publish\CS0001_HelloWorld.pdb

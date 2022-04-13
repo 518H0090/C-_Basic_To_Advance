@@ -1,0 +1,15 @@
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\C# AND ASP.NET\CS0001_HelloWorld\bin\Debug\net6.0\CS0001_HelloWorld.exe
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\C# AND ASP.NET\CS0001_HelloWorld\bin\Debug\net6.0\CS0001_HelloWorld.deps.json
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\C# AND ASP.NET\CS0001_HelloWorld\bin\Debug\net6.0\CS0001_HelloWorld.runtimeconfig.json
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\C# AND ASP.NET\CS0001_HelloWorld\bin\Debug\net6.0\CS0001_HelloWorld.dll
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\C# AND ASP.NET\CS0001_HelloWorld\bin\Debug\net6.0\CS0001_HelloWorld.pdb
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\C# AND ASP.NET\CS0001_HelloWorld\obj\Debug\net6.0\CS0001_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\C# AND ASP.NET\CS0001_HelloWorld\obj\Debug\net6.0\CS0001_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\C# AND ASP.NET\CS0001_HelloWorld\obj\Debug\net6.0\CS0001_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\C# AND ASP.NET\CS0001_HelloWorld\obj\Debug\net6.0\CS0001_HelloWorld.AssemblyInfo.cs
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\C# AND ASP.NET\CS0001_HelloWorld\obj\Debug\net6.0\CS0001_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\C# AND ASP.NET\CS0001_HelloWorld\obj\Debug\net6.0\CS0001_HelloWorld.dll
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\C# AND ASP.NET\CS0001_HelloWorld\obj\Debug\net6.0\refint\CS0001_HelloWorld.dll
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\C# AND ASP.NET\CS0001_HelloWorld\obj\Debug\net6.0\CS0001_HelloWorld.pdb
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\C# AND ASP.NET\CS0001_HelloWorld\obj\Debug\net6.0\CS0001_HelloWorld.genruntimeconfig.cache
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\C# AND ASP.NET\CS0001_HelloWorld\obj\Debug\net6.0\ref\CS0001_HelloWorld.dll
