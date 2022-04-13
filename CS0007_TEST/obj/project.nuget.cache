@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5R9w+pDS+VMBu2HYQFeihhYzzU7Tq95yDynmwR+7yv8GKeYCavIAzo8sFAinTt2gcmSrhEkKiCQ78s4KTugGkg==",
+  "success": true,
+  "projectFilePath": "D:\\CS0007_TEST\\CS0007_TEST.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TRUNG HIEU PC3\\.nuget\\packages\\thutils\\1.0.0\\thutils.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

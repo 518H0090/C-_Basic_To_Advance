@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CS0007_TEST/1.0.0": {
+        "dependencies": {
+          "THUtils": "1.0.0"
+        },
+        "runtime": {
+          "CS0007_TEST.dll": {}
+        }
+      },
+      "THUtils/1.0.0": {
+        "runtime": {
+          "lib/net6.0/CS0007_Utils.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS0007_TEST/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "THUtils/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jbev1C5vWsJ0D0R5yRTrREPAbgXUYEqrBfE39ja0h4KCf/QwPZHEOFN0zCDNzDvNGko/RKRUuXr/BgTdAV4pow==",
+      "path": "thutils/1.0.0",
+      "hashPath": "thutils.1.0.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+D:\CS0007_TEST\bin\Debug\net6.0\CS0007_TEST.exe
+D:\CS0007_TEST\bin\Debug\net6.0\CS0007_TEST.deps.json
+D:\CS0007_TEST\bin\Debug\net6.0\CS0007_TEST.runtimeconfig.json
+D:\CS0007_TEST\bin\Debug\net6.0\CS0007_TEST.dll
+D:\CS0007_TEST\bin\Debug\net6.0\CS0007_TEST.pdb
+D:\CS0007_TEST\bin\Debug\net6.0\CS0007_Utils.dll
+D:\CS0007_TEST\obj\Debug\net6.0\CS0007_TEST.csproj.AssemblyReference.cache
+D:\CS0007_TEST\obj\Debug\net6.0\CS0007_TEST.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS0007_TEST\obj\Debug\net6.0\CS0007_TEST.AssemblyInfoInputs.cache
+D:\CS0007_TEST\obj\Debug\net6.0\CS0007_TEST.AssemblyInfo.cs
+D:\CS0007_TEST\obj\Debug\net6.0\CS0007_TEST.csproj.CoreCompileInputs.cache
+D:\CS0007_TEST\obj\Debug\net6.0\CS0007_TEST.csproj.CopyComplete
+D:\CS0007_TEST\obj\Debug\net6.0\CS0007_TEST.dll
+D:\CS0007_TEST\obj\Debug\net6.0\refint\CS0007_TEST.dll
+D:\CS0007_TEST\obj\Debug\net6.0\CS0007_TEST.pdb
+D:\CS0007_TEST\obj\Debug\net6.0\CS0007_TEST.genruntimeconfig.cache
+D:\CS0007_TEST\obj\Debug\net6.0\ref\CS0007_TEST.dll

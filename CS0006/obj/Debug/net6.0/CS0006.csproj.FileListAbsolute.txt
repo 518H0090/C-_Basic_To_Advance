@@ -1,0 +1,15 @@
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\C# AND ASP.NET\CS0006\bin\Debug\net6.0\CS0006.exe
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\C# AND ASP.NET\CS0006\bin\Debug\net6.0\CS0006.deps.json
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\C# AND ASP.NET\CS0006\bin\Debug\net6.0\CS0006.runtimeconfig.json
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\C# AND ASP.NET\CS0006\bin\Debug\net6.0\CS0006.dll
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\C# AND ASP.NET\CS0006\bin\Debug\net6.0\CS0006.pdb
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\C# AND ASP.NET\CS0006\obj\Debug\net6.0\CS0006.csproj.AssemblyReference.cache
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\C# AND ASP.NET\CS0006\obj\Debug\net6.0\CS0006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\C# AND ASP.NET\CS0006\obj\Debug\net6.0\CS0006.AssemblyInfoInputs.cache
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\C# AND ASP.NET\CS0006\obj\Debug\net6.0\CS0006.AssemblyInfo.cs
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\C# AND ASP.NET\CS0006\obj\Debug\net6.0\CS0006.csproj.CoreCompileInputs.cache
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\C# AND ASP.NET\CS0006\obj\Debug\net6.0\CS0006.dll
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\C# AND ASP.NET\CS0006\obj\Debug\net6.0\refint\CS0006.dll
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\C# AND ASP.NET\CS0006\obj\Debug\net6.0\CS0006.pdb
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\C# AND ASP.NET\CS0006\obj\Debug\net6.0\CS0006.genruntimeconfig.cache
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\C# AND ASP.NET\CS0006\obj\Debug\net6.0\ref\CS0006.dll
