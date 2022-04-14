@@ -1,2 +1,2 @@
 # C-_Basic_To_Advance
-This responsibility used for practice C#
+Dùng để ôn tập lại C# và tiến tới ASP.net core
