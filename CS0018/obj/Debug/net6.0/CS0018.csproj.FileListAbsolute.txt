@@ -1,0 +1,15 @@
+D:\C#_visualcode\CS0018\bin\Debug\net6.0\CS0018.exe
+D:\C#_visualcode\CS0018\bin\Debug\net6.0\CS0018.deps.json
+D:\C#_visualcode\CS0018\bin\Debug\net6.0\CS0018.runtimeconfig.json
+D:\C#_visualcode\CS0018\bin\Debug\net6.0\CS0018.dll
+D:\C#_visualcode\CS0018\bin\Debug\net6.0\CS0018.pdb
+D:\C#_visualcode\CS0018\obj\Debug\net6.0\CS0018.csproj.AssemblyReference.cache
+D:\C#_visualcode\CS0018\obj\Debug\net6.0\CS0018.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_visualcode\CS0018\obj\Debug\net6.0\CS0018.AssemblyInfoInputs.cache
+D:\C#_visualcode\CS0018\obj\Debug\net6.0\CS0018.AssemblyInfo.cs
+D:\C#_visualcode\CS0018\obj\Debug\net6.0\CS0018.csproj.CoreCompileInputs.cache
+D:\C#_visualcode\CS0018\obj\Debug\net6.0\CS0018.dll
+D:\C#_visualcode\CS0018\obj\Debug\net6.0\refint\CS0018.dll
+D:\C#_visualcode\CS0018\obj\Debug\net6.0\CS0018.pdb
+D:\C#_visualcode\CS0018\obj\Debug\net6.0\CS0018.genruntimeconfig.cache
+D:\C#_visualcode\CS0018\obj\Debug\net6.0\ref\CS0018.dll
