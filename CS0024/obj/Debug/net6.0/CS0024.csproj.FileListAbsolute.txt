@@ -1,0 +1,15 @@
+D:\C#_visualcode\CS0024\bin\Debug\net6.0\CS0024.exe
+D:\C#_visualcode\CS0024\bin\Debug\net6.0\CS0024.deps.json
+D:\C#_visualcode\CS0024\bin\Debug\net6.0\CS0024.runtimeconfig.json
+D:\C#_visualcode\CS0024\bin\Debug\net6.0\CS0024.dll
+D:\C#_visualcode\CS0024\bin\Debug\net6.0\CS0024.pdb
+D:\C#_visualcode\CS0024\obj\Debug\net6.0\CS0024.csproj.AssemblyReference.cache
+D:\C#_visualcode\CS0024\obj\Debug\net6.0\CS0024.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_visualcode\CS0024\obj\Debug\net6.0\CS0024.AssemblyInfoInputs.cache
+D:\C#_visualcode\CS0024\obj\Debug\net6.0\CS0024.AssemblyInfo.cs
+D:\C#_visualcode\CS0024\obj\Debug\net6.0\CS0024.csproj.CoreCompileInputs.cache
+D:\C#_visualcode\CS0024\obj\Debug\net6.0\CS0024.dll
+D:\C#_visualcode\CS0024\obj\Debug\net6.0\refint\CS0024.dll
+D:\C#_visualcode\CS0024\obj\Debug\net6.0\CS0024.pdb
+D:\C#_visualcode\CS0024\obj\Debug\net6.0\CS0024.genruntimeconfig.cache
+D:\C#_visualcode\CS0024\obj\Debug\net6.0\ref\CS0024.dll

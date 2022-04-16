@@ -1,0 +1,15 @@
+D:\C#_visualcode\CS0022\bin\Debug\net6.0\CS0022.exe
+D:\C#_visualcode\CS0022\bin\Debug\net6.0\CS0022.deps.json
+D:\C#_visualcode\CS0022\bin\Debug\net6.0\CS0022.runtimeconfig.json
+D:\C#_visualcode\CS0022\bin\Debug\net6.0\CS0022.dll
+D:\C#_visualcode\CS0022\bin\Debug\net6.0\CS0022.pdb
+D:\C#_visualcode\CS0022\obj\Debug\net6.0\CS0022.csproj.AssemblyReference.cache
+D:\C#_visualcode\CS0022\obj\Debug\net6.0\CS0022.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_visualcode\CS0022\obj\Debug\net6.0\CS0022.AssemblyInfoInputs.cache
+D:\C#_visualcode\CS0022\obj\Debug\net6.0\CS0022.AssemblyInfo.cs
+D:\C#_visualcode\CS0022\obj\Debug\net6.0\CS0022.csproj.CoreCompileInputs.cache
+D:\C#_visualcode\CS0022\obj\Debug\net6.0\CS0022.dll
+D:\C#_visualcode\CS0022\obj\Debug\net6.0\refint\CS0022.dll
+D:\C#_visualcode\CS0022\obj\Debug\net6.0\CS0022.pdb
+D:\C#_visualcode\CS0022\obj\Debug\net6.0\CS0022.genruntimeconfig.cache
+D:\C#_visualcode\CS0022\obj\Debug\net6.0\ref\CS0022.dll
