@@ -1,0 +1,15 @@
+D:\C#_visualcode\CS0021\bin\Debug\net6.0\CS0021.exe
+D:\C#_visualcode\CS0021\bin\Debug\net6.0\CS0021.deps.json
+D:\C#_visualcode\CS0021\bin\Debug\net6.0\CS0021.runtimeconfig.json
+D:\C#_visualcode\CS0021\bin\Debug\net6.0\CS0021.dll
+D:\C#_visualcode\CS0021\bin\Debug\net6.0\CS0021.pdb
+D:\C#_visualcode\CS0021\obj\Debug\net6.0\CS0021.csproj.AssemblyReference.cache
+D:\C#_visualcode\CS0021\obj\Debug\net6.0\CS0021.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_visualcode\CS0021\obj\Debug\net6.0\CS0021.AssemblyInfoInputs.cache
+D:\C#_visualcode\CS0021\obj\Debug\net6.0\CS0021.AssemblyInfo.cs
+D:\C#_visualcode\CS0021\obj\Debug\net6.0\CS0021.csproj.CoreCompileInputs.cache
+D:\C#_visualcode\CS0021\obj\Debug\net6.0\CS0021.dll
+D:\C#_visualcode\CS0021\obj\Debug\net6.0\refint\CS0021.dll
+D:\C#_visualcode\CS0021\obj\Debug\net6.0\CS0021.pdb
+D:\C#_visualcode\CS0021\obj\Debug\net6.0\CS0021.genruntimeconfig.cache
+D:\C#_visualcode\CS0021\obj\Debug\net6.0\ref\CS0021.dll
