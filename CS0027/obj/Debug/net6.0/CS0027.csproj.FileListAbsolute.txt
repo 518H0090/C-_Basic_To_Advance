@@ -13,3 +13,18 @@ D:\C#_visualcode\C-_Basic_To_Advance\CS0027\obj\Debug\net6.0\refint\CS0027.dll
 D:\C#_visualcode\C-_Basic_To_Advance\CS0027\obj\Debug\net6.0\CS0027.pdb
 D:\C#_visualcode\C-_Basic_To_Advance\CS0027\obj\Debug\net6.0\CS0027.genruntimeconfig.cache
 D:\C#_visualcode\C-_Basic_To_Advance\CS0027\obj\Debug\net6.0\ref\CS0027.dll
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\TEST\CSGit\CS0027\bin\Debug\net6.0\CS0027.exe
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\TEST\CSGit\CS0027\bin\Debug\net6.0\CS0027.deps.json
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\TEST\CSGit\CS0027\bin\Debug\net6.0\CS0027.runtimeconfig.json
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\TEST\CSGit\CS0027\bin\Debug\net6.0\CS0027.dll
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\TEST\CSGit\CS0027\bin\Debug\net6.0\CS0027.pdb
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\TEST\CSGit\CS0027\obj\Debug\net6.0\CS0027.csproj.AssemblyReference.cache
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\TEST\CSGit\CS0027\obj\Debug\net6.0\CS0027.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\TEST\CSGit\CS0027\obj\Debug\net6.0\CS0027.AssemblyInfoInputs.cache
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\TEST\CSGit\CS0027\obj\Debug\net6.0\CS0027.AssemblyInfo.cs
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\TEST\CSGit\CS0027\obj\Debug\net6.0\CS0027.csproj.CoreCompileInputs.cache
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\TEST\CSGit\CS0027\obj\Debug\net6.0\CS0027.dll
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\TEST\CSGit\CS0027\obj\Debug\net6.0\refint\CS0027.dll
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\TEST\CSGit\CS0027\obj\Debug\net6.0\CS0027.pdb
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\TEST\CSGit\CS0027\obj\Debug\net6.0\CS0027.genruntimeconfig.cache
+C:\Users\TRUNG HIEU PC3\OneDrive\Máy tính\TEST\CSGit\CS0027\obj\Debug\net6.0\ref\CS0027.dll

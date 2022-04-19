@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#_visualcode\\C-_Basic_To_Advance\\CS0027\\CS0027.csproj",
+      "projectUniqueName": "C:\\Users\\TRUNG HIEU PC3\\OneDrive\\Máy tính\\TEST\\CSGit\\CS0027\\CS0027.csproj",
       "projectName": "CS0027",
-      "projectPath": "D:\\C#_visualcode\\C-_Basic_To_Advance\\CS0027\\CS0027.csproj",
+      "projectPath": "C:\\Users\\TRUNG HIEU PC3\\OneDrive\\Máy tính\\TEST\\CSGit\\CS0027\\CS0027.csproj",
       "packagesPath": "C:\\Users\\TRUNG HIEU PC3\\.nuget\\packages\\",
-      "outputPath": "D:\\C#_visualcode\\C-_Basic_To_Advance\\CS0027\\obj\\",
+      "outputPath": "C:\\Users\\TRUNG HIEU PC3\\OneDrive\\Máy tính\\TEST\\CSGit\\CS0027\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
