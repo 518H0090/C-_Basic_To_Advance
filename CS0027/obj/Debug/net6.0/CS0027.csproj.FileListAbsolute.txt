@@ -1,0 +1,15 @@
+D:\C#_visualcode\C-_Basic_To_Advance\CS0027\bin\Debug\net6.0\CS0027.exe
+D:\C#_visualcode\C-_Basic_To_Advance\CS0027\bin\Debug\net6.0\CS0027.deps.json
+D:\C#_visualcode\C-_Basic_To_Advance\CS0027\bin\Debug\net6.0\CS0027.runtimeconfig.json
+D:\C#_visualcode\C-_Basic_To_Advance\CS0027\bin\Debug\net6.0\CS0027.dll
+D:\C#_visualcode\C-_Basic_To_Advance\CS0027\bin\Debug\net6.0\CS0027.pdb
+D:\C#_visualcode\C-_Basic_To_Advance\CS0027\obj\Debug\net6.0\CS0027.csproj.AssemblyReference.cache
+D:\C#_visualcode\C-_Basic_To_Advance\CS0027\obj\Debug\net6.0\CS0027.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_visualcode\C-_Basic_To_Advance\CS0027\obj\Debug\net6.0\CS0027.AssemblyInfoInputs.cache
+D:\C#_visualcode\C-_Basic_To_Advance\CS0027\obj\Debug\net6.0\CS0027.AssemblyInfo.cs
+D:\C#_visualcode\C-_Basic_To_Advance\CS0027\obj\Debug\net6.0\CS0027.csproj.CoreCompileInputs.cache
+D:\C#_visualcode\C-_Basic_To_Advance\CS0027\obj\Debug\net6.0\CS0027.dll
+D:\C#_visualcode\C-_Basic_To_Advance\CS0027\obj\Debug\net6.0\refint\CS0027.dll
+D:\C#_visualcode\C-_Basic_To_Advance\CS0027\obj\Debug\net6.0\CS0027.pdb
+D:\C#_visualcode\C-_Basic_To_Advance\CS0027\obj\Debug\net6.0\CS0027.genruntimeconfig.cache
+D:\C#_visualcode\C-_Basic_To_Advance\CS0027\obj\Debug\net6.0\ref\CS0027.dll

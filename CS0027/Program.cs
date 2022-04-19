@@ -7,7 +7,7 @@ namespace CS0027
         static void Main(string[] args)
         {
             Console.OutputEncoding = System.Text.Encoding.Unicode;
-            Console.WriteLine("Test thử");
+            Console.WriteLine("Add khác đi");
         }
     }
 }
