@@ -43,16 +43,53 @@ namespace CS0044
         }
     }
 
+    class CharacterEquiptCon
+    {
+        Weapon Weapon { set; get; }
+        public CharacterEquiptCon(Weapon weapon)
+        {
+            this.Weapon = weapon;
+        }
+
+        public void ShowEquipment()
+        {
+            Weapon.InfoWeapon();
+        }
+    }
+
+    class CharacterEquiptConLa
+    {
+        public Weapon Weapon { set; get; }
+        public CharacterEquiptConLa()
+        {
+
+        }
+
+        public void ShowEquipment()
+        {
+            Weapon.InfoWeapon();
+        }
+    }
+
     class Program
     {
         static void Main(string[] args)
         {
+            // thông qua interface
             IWeapon weapon = new Weapon("Sword", 2000);
-            IWeapon weapon1 = new Weapon();
             CharacterEquipt characterEquipt = new CharacterEquipt(weapon);
             characterEquipt.ShowEquipment();
+
+            // thông qua constructor
+            Weapon weapon1 = new Weapon("Gun", 5000);
             CharacterEquipt characterEquipt2 = new CharacterEquipt(weapon1);
             characterEquipt2.ShowEquipment();
+
+            // Thông qua getter /setter
+            Weapon weapon2 = new Weapon("Bow", 4000);
+            CharacterEquiptConLa characterEquipt3 = new CharacterEquiptConLa();
+            characterEquipt3.Weapon = weapon2;
+            characterEquipt3.ShowEquipment();
         }
     }
 }
